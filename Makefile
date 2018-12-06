@@ -1,6 +1,5 @@
 #change acording to your OpenCV installation
-#OPENCV_DIR = ~/opencv/installed/3.1.0
-OPENCV_DIR = /usr/local
+OPENCV_DIR = /Users/xjzhou/devtools/opencv/3.4.3
 
 CC=g++
 CFLAGS=-c -Wall -O3
